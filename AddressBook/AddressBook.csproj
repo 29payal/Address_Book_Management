@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AddressBookCreate.cs" />
     <Compile Include="Contact.cs" />
+    <Compile Include="DeleteContact.cs" />
     <Compile Include="EditContacts.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
